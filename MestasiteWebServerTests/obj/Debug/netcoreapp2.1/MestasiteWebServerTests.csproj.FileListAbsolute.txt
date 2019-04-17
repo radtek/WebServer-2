@@ -1,0 +1,14 @@
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\MestasiteWebServerTests.deps.json
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\MestasiteWebServerTests.runtimeconfig.json
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\MestasiteWebServerTests.runtimeconfig.dev.json
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\MestasiteWebServerTests.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\bin\Debug\netcoreapp2.1\MestasiteWebServerTests.pdb
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.csprojAssemblyReference.cache
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.csproj.CoreCompileInputs.cache
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.AssemblyInfoInputs.cache
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.AssemblyInfo.cs
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\NUnitTestProject1\obj\Debug\netcoreapp2.1\MestasiteWebServerTests.pdb

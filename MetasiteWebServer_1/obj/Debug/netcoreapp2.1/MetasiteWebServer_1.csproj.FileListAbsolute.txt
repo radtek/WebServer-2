@@ -1,0 +1,11 @@
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\MetasiteWebServer_1.deps.json
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\MetasiteWebServer_1.runtimeconfig.json
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\MetasiteWebServer_1.runtimeconfig.dev.json
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\MetasiteWebServer_1.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.1\MetasiteWebServer_1.pdb
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.csproj.CoreCompileInputs.cache
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.AssemblyInfoInputs.cache
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.AssemblyInfo.cs
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.dll
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.pdb
+C:\Users\Petronas\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.1\MetasiteWebServer_1.csprojAssemblyReference.cache
